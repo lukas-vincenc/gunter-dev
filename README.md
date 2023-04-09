@@ -1,3 +1,3 @@
 # 👋 Hi, I’m @gunter-dev
 - 📚 Student at FIT BUT
-- 🌱 I’m currently learning C, Java, Vue.js and much more
+- 🌱 I’m currently working with Vue.js, Java, Unity and much more
